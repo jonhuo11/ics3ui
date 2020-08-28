@@ -1,0 +1,128 @@
+{
+    "cardback" : {
+        "img" : "cardback.jpg"
+    },
+    "celebs" : [
+        {
+            "name" : "Obama",
+            "img" : "obama.jpg"
+        },
+        {
+            "name" : "Donnie Yen",
+            "img" : "Donnie Yen.jpg"
+        },
+        {
+            "name" : "Ed Sheeran",
+            "img" : "Ed Sheeran.jpg"
+
+        },
+        {
+
+            "name" : "Dwayne Johnson",
+            "img" : "Dwayne Johnson.jpg"
+
+        },
+        {
+
+            "name" : "Jackie Chan",
+            "img" : "Jackie Chan.jpg"
+
+        },
+        {
+
+            "name" : "Nicki Minaj",
+            "img" : "Nicki Minaj.jpg"
+
+        },
+        {
+
+            "name" : "Oprah Winfrey",
+            "img" : "Oprah Winfrey.jpg"
+
+        },
+        {
+
+            "name" : "Bruce Lee",
+            "img" : "Bruce Lee.jpg"
+        },
+        {
+            "name" : "Juice WRLD",
+            "img" : "juice.jpg"
+        },
+        {
+
+            "name" : "Chris Evans",
+            "img" : "Chris Evans.jpg"
+        },
+        {
+
+            "name" : "Donald Trump",
+            "img" : "Donald Trump.jpg"
+        },
+        {
+
+            "name" : "Eminem",
+            "img" : "eminem.jpg"
+        },
+        {
+
+            "name" : "Ice Cube",
+            "img" : "Ice Cube.jpg"
+        },
+        {
+
+            "name" : "Jason Statham",
+            "img" : "Jason Statham.jpg"
+        },
+        {
+
+            "name" : "John Cena",
+            "img" : "John Cena.jpg"
+        },
+        {
+
+            "name" : "Justin Bieber",
+            "img" : "Justin Bieber.jpg"
+        },
+        {
+
+            "name" : "Kevin Hart",
+            "img" : "Kevin Hart.jpg"
+        },
+        {
+
+            "name" : "Paul Walker",
+            "img" : "Paul Walker.jpg"
+        },
+        {
+
+            "name" : "Rihanna",
+            "img" : "Rihanna.jpg"
+        },
+        {
+
+            "name" : "Robert Downey Jr.",
+            "img" : "Robert Downey.jpg"
+        },
+        {
+
+            "name" : "Sam Smith",
+            "img" : "Sam Smith.jpg"
+        },
+        {
+
+            "name" : "Sean Combs",
+            "img" : "Sean Combs.jpg"
+        },
+        {
+
+            "name" : "Snoop Dogg",
+            "img" : "Snoop Dogg.jpg"
+        },
+        {
+
+            "name" : "Vin Diesel",
+            "img" : "Vin Diesel.jpg"
+        }
+    ]
+}

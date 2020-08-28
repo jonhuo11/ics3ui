@@ -1,0 +1,82 @@
+Summary file for A3Q1, created at 1598629455.8675091
+Interesting trends and statistics from world_population.csv
+
+Country Overview
+===================
+Most populous country in 1960: China with 667070000 people
+Least populous country in 1960: St. Martin (French part) with 4279 people 
+Most populous country in 2016: China with 1378665000 people
+Least populous country in 2016: Tuvalu with 11097 people
+
+Canada (CAN)
+===================
+Current population: 36286425
+Change in population from 1960 to 2016: 18377416
+Average yearly growth: 328153
+
+United Kingdom (GBR)
+===================
+Current population: 65637239
+Change in population from 1960 to 2016: 13237239
+Average yearly growth: 235403
+
+France (FRA)
+===================
+Current population: 66896109
+Change in population from 1960 to 2016: 20081872
+Average yearly growth: 356986
+
+Germany (DEU)
+===================
+Current population: 82667685
+Change in population from 1960 to 2016: 9852785
+Average yearly growth: 144699
+
+Italy (ITA)
+===================
+Current population: 60600590
+Change in population from 1960 to 2016: 10400890
+Average yearly growth: 190001
+
+Spain (ESP)
+===================
+Current population: 46443959
+Change in population from 1960 to 2016: 15988959
+Average yearly growth: 287822
+
+Russian Federation (RUS)
+===================
+Current population: 144342396
+Change in population from 1960 to 2016: 24445396
+Average yearly growth: 453761
+
+United States (USA)
+===================
+Current population: 323127513
+Change in population from 1960 to 2016: 142456513
+Average yearly growth: 2548868
+
+China (CHN)
+===================
+Current population: 1378665000
+Change in population from 1960 to 2016: 711595000
+Average yearly growth: 12545536
+
+India (IND)
+===================
+Current population: 1324171354
+Change in population from 1960 to 2016: 874690746
+Average yearly growth: 15563996
+
+Japan (JPN)
+===================
+Current population: 126994511
+Change in population from 1960 to 2016: 34493939
+Average yearly growth: 678230
+
+Egypt, Arab Rep. (EGY)
+===================
+Current population: 95688681
+Change in population from 1960 to 2016: 68692148
+Average yearly growth: 1216475
+
