@@ -5,7 +5,7 @@ A collection of Python projects and code snippets that I wrote while studying co
 
 There are 4 python programs under assignment 2 (A2) and 5 under assignment 3 (A3). In addition there is guess\_who.py and snakes\_and_ladders.py which are the two course summative projects that were written for evaluation. The description for each file is listed below in this document, and at the top of every python file there should be a comment explaining the purpose of the file as well.
 
-## A2 --> Assignment 2 Question 1, 3, 4, 5 ICS3U Sem 1 2019-20
+## A2 --> Assignment 2, Questions 1, 3, 4, 5 from ICS3U during Semester 1 of 2019-20
 1. Create a flowchart, then write a program to perform a unit conversion of
 your own choosing. Make sure that the program prints an introduction that explains what it
 does. User output is important for understanding. Typical conversions are temperature,
@@ -22,7 +22,7 @@ sun and cloud or moon and stars) and anything else you want to add.
 5. WOW me with your Pygame knowledge. Create a flowchart and then write a program that
 uses any valid function not already used in this assignment.
 
-## A3 --> Assignment 3 Question 1 - 5 ICS3U Sem 1 2019-20
+## A3 --> Assignment 3, Question 1 to 5 from ICS3U Semester 1 of 2019-20
 1. I/O Question: Find a data set you are interested in. (If stuck,
 go to Environment Canada or U of W weather stats and
 download something.) The data set must have at least 100
