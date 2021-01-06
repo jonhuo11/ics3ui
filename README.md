@@ -1,7 +1,7 @@
 
 ## ICS3UI 2019-2020
 
-A collection of Python projects and code snippets that I wrote while studying computer science in ICS3UI with J Harris. Several pygame projects are featured, including recreations of popular games such as snakes and ladders, guess who, and UNO.
+A collection of Python projects and code snippets that I wrote while studying computer science in ICS3UI, taught by J Harris. Several pygame projects are featured, including recreations of popular games such as snakes and ladders, guess who, and UNO.
 
 There are 4 python programs under assignment 2 (A2) and 5 under assignment 3 (A3). In addition there is guess\_who.py and snakes\_and_ladders.py which are the two course summative projects that were written for evaluation. The description for each file is listed below in this document, and at the top of every python file there should be a comment explaining the purpose of the file as well.
 
