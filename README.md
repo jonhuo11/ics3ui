@@ -47,7 +47,7 @@ use one I gave you in class or create your own. Have fun
 with this one!
 
 ## Snakes And Ladders, Midterm Project
-1. Recreate snakes and latters using whatever resources are available.
+1. Recreate popular board game "Snakes and Ladders" using whatever resources are available.
 
 ## Guess Who, Course Summative Project
-1. Recreate guess who using whatever resources are available.
+1. Recreate popular board game "Guess Who" using whatever resources are available.
