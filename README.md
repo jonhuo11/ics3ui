@@ -22,7 +22,7 @@ sun and cloud or moon and stars) and anything else you want to add.
 5. WOW me with your Pygame knowledge. Create a flowchart and then write a program that
 uses any valid function not already used in this assignment.
 
-## A3 --> Assignment 3, Question 1 to 5 from ICS3U Semester 1 of 2019-20
+## A3 --> Assignment 3, Question 1 to 5 from ICS3U during Semester 1 of 2019-20
 1. I/O Question: Find a data set you are interested in. (If stuck,
 go to Environment Canada or U of W weather stats and
 download something.) The data set must have at least 100
